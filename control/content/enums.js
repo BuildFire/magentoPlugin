@@ -3,7 +3,7 @@
 (function (angular) {
     angular.module('magentoEcommerceContent')
         .constant('TAG_NAMES', {
-            MAGENTO_ECOMMERCE_INFO: 'magentoEcommerceInfo',
+            MAGENTO_ECOMMERCE_INFO: 'magentoEcommerceInfo'
         })
         .constant('STATUS_CODE', {
             INSERTED: 'inserted',
