@@ -1,7 +1,7 @@
 'use strict';
 
 (function (angular) {
-  angular.module('magentoEcommerceContent')
+  angular.module('magentoEcommerceDesign')
     .constant('TAG_NAMES', {
       MAGENTO_INFO: 'magentoInfo'
     })

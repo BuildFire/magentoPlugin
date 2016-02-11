@@ -2,8 +2,8 @@
 
 (function (angular, buildfire) {
   angular
-    .module('magentoEcommerceContent')
-    .controller('ContentHomeCtrl', ['$scope',
+    .module('magentoEcommerceDesign')
+    .controller('DesignHomeCtrl', ['$scope',
       function ($scope) {
         console.log('inside content home controller ----------------->');
         var ContentHome = this;
